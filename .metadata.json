@@ -1,0 +1,22 @@
+[
+  {
+    "package": "areal",
+    "oncran": true
+  },
+  {
+    "package": "biscale",
+    "oncran": true
+  },
+  {
+    "package": "censusxy",
+    "oncran": true
+  },
+  {
+    "package": "qualmap",
+    "oncran": true
+  },
+  {
+    "package": "testDriveR",
+    "oncran": true
+  }
+]
