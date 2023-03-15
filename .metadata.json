@@ -1,5 +1,13 @@
 [
   {
+    "package": "censusxy",
+    "oncran": true
+  },
+  {
+    "package": "testDriveR",
+    "oncran": true
+  },
+  {
     "package": "areal",
     "oncran": true
   },
@@ -8,15 +16,7 @@
     "oncran": true
   },
   {
-    "package": "censusxy",
-    "oncran": true
-  },
-  {
     "package": "qualmap",
-    "oncran": true
-  },
-  {
-    "package": "testDriveR",
     "oncran": true
   }
 ]
