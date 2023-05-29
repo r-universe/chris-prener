@@ -13,11 +13,6 @@
 	url = https://github.com/chris-prener/biscale
 	shallow = true
 	registered = true
-[submodule "censusxy"]
-	path = censusxy
-	url = https://github.com/chris-prener/censusxy
-	shallow = true
-	registered = true
 [submodule "qualmap"]
 	path = qualmap
 	url = https://github.com/chris-prener/qualmap
