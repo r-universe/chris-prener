@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "areal"]
 	path = areal
 	url = https://github.com/chris-prener/areal
-	shallow = true
-	registered = true
 [submodule "biscale"]
 	path = biscale
 	url = https://github.com/chris-prener/biscale
-	shallow = true
-	registered = true
 [submodule "qualmap"]
 	path = qualmap
 	url = https://github.com/chris-prener/qualmap
-	shallow = true
-	registered = true
 [submodule "testDriveR"]
 	path = testDriveR
 	url = https://github.com/chris-prener/testdriver
-	shallow = true
-	registered = true
